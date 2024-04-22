@@ -1,0 +1,20 @@
+.bg-color{
+    color: burlywood;
+    background-color: lavender;
+}
+
+.side-nav-height{
+    height: 100vh
+}
+
+.card-img-height{
+    height: 170px;
+}
+
+.card-price-color{
+    background-color: blueviolet;
+    position: absolute;
+    top: 60px;
+    right: 25px;
+
+}
